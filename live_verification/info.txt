@@ -1,1 +1,4 @@
+#Everything inside the directory -> live_verification
 
+This is a seperate flask application. 
+Treat this is a liveliness verification logic which is called by your main application as sub-process.
