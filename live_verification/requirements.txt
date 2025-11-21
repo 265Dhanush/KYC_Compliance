@@ -1,0 +1,10 @@
+# FINAL, FINAL: Correct Protobuf version
+numpy==1.23.5
+tensorflow==2.12.0
+mediapipe==0.10.11
+deepface==0.0.79
+opencv-python==4.8.0.76
+scipy==1.11.4
+protobuf==3.20.3
+flask==2.3.3
+pymongo
