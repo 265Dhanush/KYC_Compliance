@@ -1,0 +1,3 @@
+
+This is an empty folder, where the image is stored for easier processing.
+Once the processing is done, it will delete the image. So, this folder is necessary.
