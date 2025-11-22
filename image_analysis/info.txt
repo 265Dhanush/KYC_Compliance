@@ -1,0 +1,1 @@
+This folder should also contain 2 more files which contain the model_weights of the object detection and object segmentation, trained using the detectron2 model.
